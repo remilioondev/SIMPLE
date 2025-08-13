@@ -2,7 +2,7 @@
 
 Simple HTML/CSS/JS with:
 - Top gradient **shake bar** (red→green) with a slider
-- **Raining money bags** effect (💰)
+- **Raining money SCAMS** effect (💰)
 - Dexscreener responsive embed
 - CTA GIF under buttons (with JS fallback loop)
 - Centralized `CONFIG` in `assets/script.js` for contract, links, etc.
