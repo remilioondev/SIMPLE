@@ -5,9 +5,9 @@ const CONFIG = {
   contract: "0x06959273E9A65433De71F5A452D529544E07dDD0",
   dexscreenerUrl: "https://dexscreener.com/base/0x06959273E9A65433De71F5A452D529544E07dDD0?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15",
   buyUrl: "https://dexscreener.com/base/0x06959273E9A65433De71F5A452D529544E07dDD0",
-  twitterUrl: "https://twitter.com/",
-  telegramUrl: "https://t.me/",
-  websiteUrl: "https://example.com",
+  twitterUrl: "https://x.com/CoolSnag",
+  telegramUrl: "https://t.me/SimpleCoolAutomaticMoneySnag",
+  websiteUrl: "http://simplecoolautomaticmoneysnag.xyz",
   supply: "1,000,000,000",
   taxes: "0/0"
 };
